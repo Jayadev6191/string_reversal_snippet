@@ -1,0 +1,23 @@
+{
+  "name": "string_reversal",
+  "version": "1.0.0",
+  "description": "Micro library to perform a string reversal",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayadev6191/string_reversal_snippet.git"
+  },
+  "keywords": [
+    "string",
+    "reversal"
+  ],
+  "author": "jaidev.akkiraju@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jayadev6191/string_reversal_snippet/issues"
+  },
+  "homepage": "https://github.com/Jayadev6191/string_reversal_snippet#readme"
+}
